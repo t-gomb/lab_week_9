@@ -1,0 +1,12 @@
+@media screen and (min-width: 0px) and (max-width: 400px) {
+    div { background-color: #9ccfd8;
+        font-size: 10px;}
+}
+@media screen and (min-width: 401px) and (max-width: 599px) {
+    div { background-color: #c4a7e7;
+    font-size: 15px;}
+}
+@media screen and (min-width: 600px) {
+    div { background-color: #ea9d34;
+    font-size: 20px; }
+}
